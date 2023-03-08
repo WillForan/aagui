@@ -1,0 +1,20 @@
+#+Title: AA
+
+* Name
+ * afni alternative
+ * another afni
+ * afni anonymous
+
+* What
+Neuroimage viewer in common lisp with aspirations to include APL powered manipulation. 
+
+* Status
+  * woolgathering
+  * hack with nibabel to read images
+
+* Goals
+  * upper and lower bound thresholding
+  * "layers" of masks with separate color scales
+  * "whereami" fuzzy select and jump
+  * nifti and mgz
+
